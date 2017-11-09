@@ -1,13 +1,12 @@
-#  1.  Pages 34-39 #
+#  1.7 Documentation  Pages 69-77 #
 
 After the lesson be sure to be able to:
-
+- Open the documentation viewer for overviews, symbol descriptions, and discussion
+- Use resources on the Apple Developer website to find sample code and framework guides
 
 ## Assignment ##
 
-Open and complete the exercises in Lab—Operators.playground. Found in your student resource folder and also referenced on page 39.
-
-Make sure to upload it to GitHub AND mark it as complete on Canvas.
+Complete the Lab on page 77. Upload your Pages document to Canvas.
 
 ## Extra Practice ##
 

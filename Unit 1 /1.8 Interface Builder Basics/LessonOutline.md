@@ -1,11 +1,17 @@
-#  1.  Pages 34-39 #
+#  1.8 Interface Builder Basics  Pages 78-93 #
 
 After the lesson be sure to be able to:
-
+- Describe the advantages of using Interface Builder versus programmatic layout
+- Describe the purpose of the initial view controller in a storyboard
+- Describe the role of the document outline in Interface Builder
+- Demonstrate how to create an IBOutlet and an IBAction using the assistant editor
+- Explain the differences between the Identity inspector, Attributes inspector, Size inspector, and Connections inspector
+- Demonstrate how to add objects from the Object library to a scene
+- Use the Identity inspector, Attributes inspector, Size inspector, and Object library to build basic interfaces
 
 ## Assignment ##
 
-Open and complete the exercises in Lab—Operators.playground. Found in your student resource folder and also referenced on page 39.
+Complete the Lab on page 91 in the book.
 
 Make sure to upload it to GitHub AND mark it as complete on Canvas.
 

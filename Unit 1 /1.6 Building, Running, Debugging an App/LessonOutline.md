@@ -1,7 +1,10 @@
-#  1.6 Building, Running, Debugging an App  Pages 34-39 #
+#  1.6 Building, Running, Debugging an App  Pages 57-68 #
 
 After the lesson be sure to be able to:
-
+- Simulate portrait and landscape orientations
+- Use keyboard shortcuts to zoom in and out
+- Use basic code signing to run an app on an actual device
+- Insert a breakpoint in an app running on an actual device
 
 ## Assignment ##
 
