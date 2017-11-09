@@ -15,3 +15,8 @@ After the lesson be sure to be able to:
 Open and complete the exercises in Lab—Constants and Variables.playground. Found in your student resource folder and also referenced on page 33.
 
 Make sure to upload it to GitHub AND mark it as complete on Canvas.
+
+## Extra Practice ##
+
+- Invite students to create a presentation—using a presentation application, such as Keynote—that will teach another student about data types and clarify the difference between constants and variables.
+- Create a list of constants and variables using things about/within the classroom: classroom size, student count, whiteboard length, etc. Have the students determine whether each item should be declared a constant or a variable.

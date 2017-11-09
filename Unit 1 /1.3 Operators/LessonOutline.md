@@ -12,3 +12,7 @@ After the lesson be sure to be able to:
 Open and complete the exercises in Lab—Operators.playground. Found in your student resource folder and also referenced on page 39.
 
 Make sure to upload it to GitHub AND mark it as complete on Canvas.
+
+## Extra Practice ##
+
+Invite students to use the Swift Programming Language Guide to learn about the modulo operator.

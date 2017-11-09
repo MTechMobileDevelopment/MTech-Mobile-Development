@@ -13,3 +13,7 @@ After the lesson be sure to be able to:
 Open and complete the exercises in Lab—Control Flow.playground. Found in your student resource folder and also referenced on page 49.
 
 Make sure to upload it to GitHub AND mark it as complete on Canvas.
+
+## Extra Practice ##
+
+Invite students to research another more advanced operator, called the ternary conditional operator, in the Swift Programming Language Guide. After they review the guide, ask them to create a presentation or playground to explain the operator to another student.
