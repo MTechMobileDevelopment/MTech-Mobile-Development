@@ -1,4 +1,4 @@
-#  1.5  XCode Pages 34-39 #
+#  1.5  XCode Pages 50-56 #
 
 After the lesson be sure to be able to:
 - Describe asset catalogs, capabilities, and deployment target
