@@ -18,5 +18,5 @@ Make sure to upload it to GitHub AND mark it as complete on Canvas.
 
 ## Extra Practice ##
 
-- Invite students to create a presentation—using a presentation application, such as Keynote—that will teach another student about data types and clarify the difference between constants and variables.
+- Create a presentation—using a presentation application, such as Keynote—that will teach another student about data types and clarify the difference between constants and variables.
 - Create a list of constants and variables using things about/within the classroom: classroom size, student count, whiteboard length, etc. Have the students determine whether each item should be declared a constant or a variable.

@@ -13,4 +13,4 @@ Make sure to upload it to GitHub AND mark it as complete on Canvas.
 
 ## Extra Practice ##
 
-For a deeper introduction to the Swift language, invite students to review all or parts of A Swift Tour in the Swift Programming Language Guide. After they read the guide, invite them to build a playground that uses some of the more advanced features they just learned about.
+For a deeper introduction to the Swift language, review all or parts of A Swift Tour in the Swift Programming Language Guide. After you have read the guide, build a playground that uses some of the more advanced features you just learned about.

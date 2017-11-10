@@ -15,4 +15,4 @@ Make sure to upload it to GitHub AND mark it as complete on Canvas.
 
 ## Extra Practice ##
 
-Invite students to use the Swift Programming Language Guide to learn about the modulo operator.
+Use the Swift Programming Language Guide to learn about the modulo operator.

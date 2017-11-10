@@ -17,5 +17,5 @@ Make sure to upload it to GitHub AND mark it as complete on Canvas.
 
 ## Extra Practice ##
 
-- Invite students to think of an app they want to build, then use Interface Builder to prototype one or more scenes of the app. Invite them to explore the different elements in the Object library and to update their properties to customize the scene's look and feel.
-- Have students watch the Implementing UI Designs in Interface Builder video from WWDC 2015 for an overview of advanced concepts, including Auto Layout and stack views, that will be covered later in the course.
+- Think of an app you want to build, then use Interface Builder to prototype one or more scenes of the app. Explore the different elements in the Object library and update their properties to customize the scene's look and feel.
+- Watch the Implementing UI Designs in Interface Builder video from WWDC 2015 for an overview of advanced concepts, including Auto Layout and stack views, that will be covered later in the course.

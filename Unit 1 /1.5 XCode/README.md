@@ -16,4 +16,4 @@ Make sure to upload it to GitHub AND mark it as complete on Canvas.
 
 ## Extra Practice ##
 
-Invite students to create a presentation or tutorial—using the lesson and the Xcode Help documentation as source materials—to teach someone else about Xcode. Ask them to use their presentation with another student.
+Create a presentation or tutorial—using the lesson and the Xcode Help documentation as source materials—to teach someone else about Xcode. Use their presentation with another student.

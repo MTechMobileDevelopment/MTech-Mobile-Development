@@ -16,4 +16,4 @@ Make sure to upload it to GitHub AND mark it as complete on Canvas.
 
 ## Extra Practice ##
 
-Invite students to research another more advanced operator, called the ternary conditional operator, in the Swift Programming Language Guide. After they review the guide, ask them to create a presentation or playground to explain the operator to another student.
+Research another more advanced operator, called the ternary conditional operator, in the Swift Programming Language Guide. After you review the guide, create a presentation or playground to explain the operator to another student.
