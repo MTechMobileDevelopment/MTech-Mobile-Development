@@ -1,16 +1,21 @@
-# 1.1 Introduction to Swift and Playgrounds Pages 8-19 #
+# 2.4 Classes, Inheritance Pages 154-165 #
 
 After the lesson be sure to be able to:
-- List three features that make Swift a modern language
-- Describe why Swift is a safe language
-- Demonstrate how to use playgrounds to run Swift code
+- Describe the differences between a structure and a class
+- Demonstrate how to define a class
+- Describe the importance of inheritance
+- Demonstrate how to write a Swift class that inherits from another
+- Demonstrate how to use a Swift class to manage complex state in an application
+- Demonstrate how to create a new subclass
+- Demonstrate how to call a superclass’s properties or methods
+- Demonstrate how to override methods from a superclass.
 
 ## Assignment ##
 
-Open and complete the exercises in Lab—Introduction.playground. Found in your student resource folder and also referenced on page 19.
+Open and complete the exercises in Lab—Classes.playground. Found in your student resource folder and also referenced on page 165.
 
 Make sure to upload it to GitHub AND mark it as complete on Canvas.
 
 ## Extra Practice ##
 
-For a deeper introduction to the Swift language, review all or parts of A Swift Tour in the Swift Programming Language Guide. After you have read the guide, build a playground that uses some of the more advanced features you just learned about.
+Read the Classes and Structures section in the Swift Programming Language Guide for more information about when to use a class versus a structure. Next, create a presentation or a playground exercise that compares and contrasts classes and structures. You can then deliver the presentation to another student.

@@ -1,16 +1,18 @@
-# 1.1 Introduction to Swift and Playgrounds Pages 8-19 #
+# 2.9 Controls in Action Pages 218-238 #
 
 After the lesson be sure to be able to:
-- List three features that make Swift a modern language
-- Describe why Swift is a safe language
-- Demonstrate how to use playgrounds to run Swift code
+- Demonstrate how to use a button to execute a block of code
+- Demonstrate how to use a switch to execute a block of code
+- Demonstrate how to access the value of a switch
+- Demonstrate how to use a slider to execute a block of code
+- Demonstrate how to access the value of a slider
 
 ## Assignment ##
 
-Open and complete the exercises in Lab—Introduction.playground. Found in your student resource folder and also referenced on page 19.
+Found in your student resource folder and also referenced on page 236. Create and Finish the Two Buttons Assignment.
 
 Make sure to upload it to GitHub AND mark it as complete on Canvas.
 
 ## Extra Practice ##
 
-For a deeper introduction to the Swift language, review all or parts of A Swift Tour in the Swift Programming Language Guide. After you have read the guide, build a playground that uses some of the more advanced features you just learned about.
+Experiment with the date picker control to update a label with the current date. You may need to investigate the DateFormatter type to print out the date in a more readable format.

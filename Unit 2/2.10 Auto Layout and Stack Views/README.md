@@ -1,16 +1,16 @@
-# 1.1 Introduction to Swift and Playgrounds Pages 8-19 #
+# 2.10 Auto Layout and Stack Views Pages 239-268 #
 
 After the lesson be sure to be able to:
-- List three features that make Swift a modern language
-- Describe why Swift is a safe language
-- Demonstrate how to use playgrounds to run Swift code
+- Describe the Auto Layout system for constraining views as they relate to other views
+- Demonstrate how to add constraints to a view
+- Demonstrate how to use a stack view to help manage constraints
 
 ## Assignment ##
 
-Open and complete the exercises in Lab—Introduction.playground. Found in your student resource folder and also referenced on page 19.
+Found in your student resource folder and also referenced on page 259. Create and Finish the Calculator Assignment.
 
 Make sure to upload it to GitHub AND mark it as complete on Canvas.
 
 ## Extra Practice ##
 
-For a deeper introduction to the Swift language, review all or parts of A Swift Tour in the Swift Programming Language Guide. After you have read the guide, build a playground that uses some of the more advanced features you just learned about.
+Look at a scene in an app, such as News or Clock, then build the view using only stack views, views, labels, and image views.
