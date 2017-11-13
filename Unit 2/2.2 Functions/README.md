@@ -1,4 +1,4 @@
-# 1.1 Functions Pages 123-130 #
+# 2.2 Functions Pages 123-130 #
 
 After the lesson be sure to be able to:
 - Demonstrate how to build a function with and without a return type
