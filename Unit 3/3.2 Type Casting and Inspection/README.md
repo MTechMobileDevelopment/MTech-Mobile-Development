@@ -1,4 +1,4 @@
-# 3.2 Type Casting and Inspection Pages 123-130 #
+# 3.2 Type Casting and Inspection Pages 305-310 #
 
 After the lesson be sure to be able to:
 - Demonstrate how to build a function with and without a return type
@@ -16,5 +16,4 @@ Make sure to upload it to GitHub AND mark it as complete on Canvas.
 
 ## Extra Practice ##
 
-- Research how a single function might use tuples to return two values. You can use the Swift Programming Language Guide as a source. After they're done with their research, ask them to write a short tutorial or create a playground exercise that demonstrates the use of tuples.
-- Study the "Closures" lesson in this course or to review the Closures section of the Swift Programming Language Guide, then create a presentation that compares and contrasts functions and closures.
+- Read through the Type Casting section in the Swift Programming Language Guide and write down new lessons learned.

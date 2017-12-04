@@ -1,4 +1,4 @@
-# 3.9 Building Simple Work Flows Pages 218-238 #
+# 3.9 Building Simple Work Flows Pages 385-394 #
 
 After the lesson be sure to be able to:
 - Demonstrate how to use a button to execute a block of code
@@ -15,4 +15,4 @@ Make sure to upload it to GitHub AND mark it as complete on Canvas.
 
 ## Extra Practice ##
 
-Experiment with the date picker control to update a label with the current date. You may need to investigate the DateFormatter type to print out the date in a more readable format.
+- Research apps that have won Apple Design Awards, which recognize developers and their apps for superior design, innovation, and technology on Apple platforms. Document features in the apps that adhere to the Human Interface Guidelines and those that don't. Consider why it's OK for apps to work outside of the box—even though this course recommends students try to work within Apple guidelines. Have them write down their thoughts or prepare a short presentation exploring innovative design practices.

@@ -1,4 +1,4 @@
-# 3.1 Optionals Pages 113-122 #
+# 3.1 Optionals Pages Pages 293-304 #
 
 After the lesson be sure to be able to:
 - Demonstrate how to make a mutable and immutable string
@@ -16,5 +16,5 @@ Make sure to upload it to GitHub AND mark it as complete on Canvas.
 
 ## Extra Practice ##
 
-- Read the Strings section in the Swift Programming Language Guide to dig into more advanced concepts.
-- Research some of the more advanced string operations, such as working with indexes, accessing substrings, and replacing strings. You can use the list at the end of the lesson as a resource.
+- Read the Optional section in the Swift Standard Library documentation and prepare a short presentation to teach another student about nil and Optional values.
+- Create optional collections, such as [String]?, and compare/contrast that to a collection of optionals ([String?]). Provide examples of when each is appropriate.

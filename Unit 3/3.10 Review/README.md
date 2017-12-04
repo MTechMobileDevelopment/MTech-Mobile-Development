@@ -1,4 +1,4 @@
-# 3.10 Review Pages 8-19 #
+# 3.10 Review #
 
 After the lesson be sure to be able to:
 - List three features that make Swift a modern language
@@ -12,5 +12,3 @@ Open and complete the exercises in Lab—Introduction.playground. Found in your 
 Make sure to upload it to GitHub AND mark it as complete on Canvas.
 
 ## Extra Practice ##
-
-For a deeper introduction to the Swift language, review all or parts of A Swift Tour in the Swift Programming Language Guide. After you have read the guide, build a playground that uses some of the more advanced features you just learned about.

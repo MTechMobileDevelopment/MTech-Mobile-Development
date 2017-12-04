@@ -1,4 +1,4 @@
-# 3.7 Tab Bar Controllers Pages 185-204 #
+# 3.7 Tab Bar Controllers Pages 355-369 #
 
 After the lesson be sure to be able to:
 - Describe the role UIKit plays in app development
@@ -14,5 +14,4 @@ Make sure to upload it to GitHub AND mark it as complete on Canvas.
 
 ## Extra Practice ##
 
-- Use Interface Builder to create a prototype of an app you might like to build. The app should have at least eight of the different views and controls covered in the lesson.
-- Try other user interface elements not covered in this lesson. This may include map views, web views, and visual effect views.
+- Read about setting up a tab bar controller programmatically. Build the lab or guide example programmatically, instead of using Interface Builder.

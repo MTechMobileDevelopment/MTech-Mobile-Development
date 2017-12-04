@@ -1,4 +1,4 @@
-# 3.6 Segues Navigation Controllers Pages 177-184 #
+# 3.6 Segues Navigation Controllers Pages 331-354 #
 
 After the lesson be sure to be able to:
 - List three looping methods included in Swift
@@ -15,5 +15,4 @@ Make sure to upload it to GitHub AND mark it as complete on Canvas.
 
 ## Extra Practice ##
 
-- Build a diagram—using Keynote, Preview, or an image editing application—that compares and contrasts the functionality of the three types ​ of loop.
-- Read about control transfer statements in the Swift Programming Language Guide and to learn ways to control the execution of different sections of a loop or other control flow statement. Next, create a playground exercise that reinforces the concepts.
+- Build a view controller with a single label that displays the count of all the items on the navigation controller's stack, and a button that will push a new instance of the view controller onto the stack. The user should be able to tap the button any number of times to add to the stack or tap the navigation bar's Back button to return to the initial view controller.

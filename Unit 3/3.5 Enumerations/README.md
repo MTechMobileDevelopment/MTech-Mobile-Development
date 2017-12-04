@@ -1,4 +1,4 @@
-# 3.5 Enumerations Pages 166-176 #
+# 3.5 Enumerations Pages 325-330 #
 
 After the lesson be sure to be able to:
 - Describe the difference between let and var when using collection types
@@ -14,4 +14,5 @@ Make sure to upload it to GitHub AND mark it as complete on Canvas.
 
 ## Extra Practice ##
 
-Read the Sets subsection in the Swift Programming Language Guide, then create a presentation or playground exercise to teach another student about sets and set operations.
+- Read the Enumerations section of the Swift Programming Language Guide and investigate Associated Values and Raw Values. Write a playground exercise to practice using associated values and raw values.
+- Identify whether an enumeration is a value type (like a struct) or a reference type (like a class). Prove it's a value type by assigning it to two different variables, or by the presence of the mutating keyword in methods that change the value.

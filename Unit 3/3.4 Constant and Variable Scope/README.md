@@ -1,4 +1,4 @@
-# 3.4 Constant and Variable Scope Pages 154-165 #
+# 3.4 Constant and Variable Scope Pages 317-324 #
 
 After the lesson be sure to be able to:
 - Describe the differences between a structure and a class
@@ -18,4 +18,4 @@ Make sure to upload it to GitHub AND mark it as complete on Canvas.
 
 ## Extra Practice ##
 
-Read the Classes and Structures section in the Swift Programming Language Guide for more information about when to use a class versus a structure. Next, create a presentation or a playground exercise that compares and contrasts classes and structures. You can then deliver the presentation to another student.
+- Scope determines the accessibility of types, methods, properties, and variables in a program. Another tool for making API accessible is access control. Read the Access Control section in the Swift Programming Language Guide and to prepare a short presentation or screencast to teach the concept to another student.

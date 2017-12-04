@@ -1,4 +1,4 @@
-# 3.3 Guard Pages 131-152 #
+# 3.3 Guard Pages 311-316 #
 
 After the lesson be sure to be able to:
 - Describe the role of structures in SwiftDescribe the key components of a structure
@@ -17,5 +17,4 @@ Make sure to upload it to GitHub AND mark it as complete on Canvas.
 
 ## Extra Practice ##
 
-- Prepare a presentation or playground exercise to teach structures to another student. You can use the lesson and the Structures section of the Swift Programming Language Guide as reference material.
-- Nearly every example within this lesson builds a structure using simple structures that already exist, such as String, Int, and Double. Create structures that utilize other structures as properties. For example, define a Car structure, then define a Garage structure that includes a Car collection.
+- Explore the differences between using if-let syntax and guard-let syntax to unwrap optionals. Next, prepare a diagram, graphic, presentation, or screencast to explain the differences to another student.
