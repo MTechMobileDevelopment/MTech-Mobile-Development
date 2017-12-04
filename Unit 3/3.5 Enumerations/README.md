@@ -8,7 +8,7 @@ After the lesson be sure to be able to:
 
 ## Assignment ##
 
-Open and complete the exercises in Lab—Collections.playground. Found in your student resource folder and also referenced on page 176.
+Open and complete the exercises in Lab—Enumerations.playground. Found in your student resource folder and also referenced on page 330.
 
 Make sure to upload it to GitHub AND mark it as complete on Canvas.
 

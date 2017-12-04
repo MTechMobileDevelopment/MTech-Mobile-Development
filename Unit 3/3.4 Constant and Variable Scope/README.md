@@ -12,7 +12,7 @@ After the lesson be sure to be able to:
 
 ## Assignment ##
 
-Open and complete the exercises in Lab—Classes.playground. Found in your student resource folder and also referenced on page 165.
+Open and complete the exercises in Lab—Scope.playground. Found in your student resource folder and also referenced on page 324.
 
 Make sure to upload it to GitHub AND mark it as complete on Canvas.
 

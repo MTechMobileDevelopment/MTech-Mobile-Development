@@ -10,7 +10,7 @@ After the lesson be sure to be able to:
 
 ## Assignment ##
 
-Open and complete the exercises in Lab-Functions.playground. Found in your student resource folder and also referenced on page 130.
+Open and complete the exercises in Lab-Type Casting.playground. Found in your student resource folder and also referenced on page 370.
 
 Make sure to upload it to GitHub AND mark it as complete on Canvas.
 

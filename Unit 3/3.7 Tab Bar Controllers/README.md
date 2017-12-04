@@ -8,7 +8,7 @@ After the lesson be sure to be able to:
 
 ## Assignment ##
 
-Found in your student resource folder and also referenced on page 203. Create and Finish the UIKit Assignment.
+Create and Finish the Lab-About Me. Found in your student resource folder and also referenced on page 368.
 
 Make sure to upload it to GitHub AND mark it as complete on Canvas.
 

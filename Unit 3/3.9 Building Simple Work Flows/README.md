@@ -9,7 +9,7 @@ After the lesson be sure to be able to:
 
 ## Assignment ##
 
-Found in your student resource folder and also referenced on page 236. Create and Finish the Two Buttons Assignment.
+Create and Finish the Lab-Pizza Delivery. Found in your student resource folder and also referenced on page 393-394.
 
 Make sure to upload it to GitHub AND mark it as complete on Canvas.
 

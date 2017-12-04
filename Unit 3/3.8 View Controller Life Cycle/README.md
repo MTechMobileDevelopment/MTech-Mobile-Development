@@ -9,6 +9,6 @@ After the lesson be sure to be able to:
 
 ## Assignment ##
 
-Found in your student resource folder and also referenced on page 215. Create and Finish the Hobby Tutorial Assignment.
+Create and Finish the Lab-Order Of Events. Found in your student resource folder and also referenced on page 381-383.
 
 Make sure to upload it to GitHub AND mark it as complete on Canvas.
