@@ -1,11 +1,7 @@
 # 3.9 Building Simple Work Flows Pages 385-394 #
 
 After the lesson be sure to be able to:
-- Demonstrate how to use a button to execute a block of code
-- Demonstrate how to use a switch to execute a block of code
-- Demonstrate how to access the value of a switch
-- Demonstrate how to use a slider to execute a block of code
-- Demonstrate how to access the value of a slider
+- Describe the role of the iOS Human Interface Guidelines as a reference for building simple feature workflows and navigation hierarchies
 
 ## Assignment ##
 

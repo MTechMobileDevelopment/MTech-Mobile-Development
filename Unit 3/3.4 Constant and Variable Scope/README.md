@@ -1,14 +1,11 @@
 # 3.4 Constant and Variable Scope Pages 317-324 #
 
 After the lesson be sure to be able to:
-- Describe the differences between a structure and a class
-- Demonstrate how to define a class
-- Describe the importance of inheritance
-- Demonstrate how to write a Swift class that inherits from another
-- Demonstrate how to use a Swift class to manage complex state in an application
-- Demonstrate how to create a new subclass
-- Demonstrate how to call a superclass’s properties or methods
-- Demonstrate how to override methods from a superclass.
+- Define global and local scope
+- Describe what happens if two variables with the same name exist in both global and local scope
+- Demonstrate how to use global scope
+- Demonstrate how to use local scope
+- Demonstrate how to take advantage of variable shadowing
 
 ## Assignment ##
 

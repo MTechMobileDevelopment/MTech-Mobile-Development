@@ -1,10 +1,11 @@
 # 3.7 Tab Bar Controllers Pages 355-369 #
 
 After the lesson be sure to be able to:
-- Describe the role UIKit plays in app development
-- Identify five common views
-- Identify five common controls
-- Use developer documentation to find out more
+- Demonstrate the proper use of segues to navigate between scenes
+- Demonstrate the proper use of the prepare for segue function
+- Describe a navigation stack
+- Identify the correct use cases for navigation controllers
+- Identify three customization points for a navigation bar
 
 ## Assignment ##
 

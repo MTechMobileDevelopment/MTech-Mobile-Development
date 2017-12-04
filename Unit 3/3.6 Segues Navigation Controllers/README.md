@@ -1,11 +1,11 @@
 # 3.6 Segues Navigation Controllers Pages 331-354 #
 
 After the lesson be sure to be able to:
-- List three looping methods included in Swift
-- Demonstrate how to write a for loop to iterate over a range or collection
-- Demonstrate how to write a while loop
-- Describe when to use a while loop versus a for loop
-- Demonstrate how to break out of a loop or skip a loop iteration
+- Demonstrate the proper use of segues to navigate between scenes
+- Demonstrate the proper use of the prepare for segue function
+- Describe a navigation stack
+- Identify the correct use cases for navigation controllers
+- Identify three customization points for a navigation bar
 
 ## Assignment ##
 

@@ -1,12 +1,16 @@
 # 3.1 Optionals Pages Pages 293-304 #
 
 After the lesson be sure to be able to:
-- Demonstrate how to make a mutable and immutable string
-- Demonstrate how to compare two strings
-- Use string interpolation to create a complex variable string
-- Demonstrate how to count characters in a string
-- Describe many methods included in Swift as part of the String class
-- Describe how to return an uppercase or lowercase version of a string
+- Describe an optional
+- Explain the importance of optionals in the Swift language
+- Demonstrate two ways to check if a property is nil (!= nil and shadowing)
+- Demonstrate how to create an optional value
+- Demonstrate how to force-unwrap an optional value
+- Describe what happens when force-unwrapping a nil value
+- Demonstrate how to safely unwrap a variable
+- Demonstrate how to use optional binding to use the value of an optional
+- Demonstrate how to create a failable initializer
+- Describe and explain the proper use of implicitly unwrapped optionals
 
 ## Assignment ##
 

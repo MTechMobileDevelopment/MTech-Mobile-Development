@@ -1,13 +1,9 @@
 # 3.3 Guard Pages 311-316 #
 
 After the lesson be sure to be able to:
-- Describe the role of structures in SwiftDescribe the key components of a structure
-- Demonstrate how to create a structure with multiple properties
-- Describe the difference between an instance and a type
-- Demonstrate how to create a custom initializer for a structure
-- Demonstrate how to create a computed property
-- Demonstrate how to create a structure with one type method
-- Demonstrate how to create a structure with three instance methods
+- Describe the purpose of guard
+- Describe how guard differs from if-let syntax
+- Demonstrate how to build a function that guards against invalid arguments
 
 ## Assignment ##
 

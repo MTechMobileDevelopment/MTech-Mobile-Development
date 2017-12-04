@@ -1,10 +1,11 @@
 # 3.5 Enumerations Pages 325-330 #
 
 After the lesson be sure to be able to:
-- Describe the difference between let and var when using collection types
-- Demonstrate how to use arrays, sets, and dictionaries
-- Describe how to insert a new value into an array and how to insert a new value into a dictionary
-- Describe when you would use a set instead of an array
+- Describe the purpose of enumerations
+- Demonstrate how to define an enumeration with four explicitly defined values
+- Demonstrate how to determine the value of an enumeration without explicitly defining them
+- Demonstrate how to use an enumeration in a variable
+- Demonstrate how to use an enumeration in a switch statement
 
 ## Assignment ##
 

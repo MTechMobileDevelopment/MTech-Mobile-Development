@@ -1,11 +1,9 @@
 # 3.8 View Controller Life Cycle Pages 370-384 #
 
 After the lesson be sure to be able to:
-- Demonstrate how to configure views using Interface Builder
-- Demonstrate how to set a label's text
-- Demonstrate how to set a label's font
-- Demonstrate how to set a label's color
-- Demonstrate how to set the content mode for an image view
+- Identify the correct event in a view controller life cycle for executing setup logic
+- Identify the correct life cycle event for executing long-running view logic
+- Demonstrate proper use of life cycle events for displaying a variety of information in a variety of presented views
 
 ## Assignment ##
 

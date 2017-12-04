@@ -1,12 +1,9 @@
 # 3.2 Type Casting and Inspection Pages 305-310 #
 
 After the lesson be sure to be able to:
-- Demonstrate how to build a function with and without a return type
-- Demonstrate how to build a function with multiple named arguments
-- Describe how to return multiple values from a single function
-- Describe optional parameter values
-- Demonstrate how to specify external names for function parameters
-- Demonstrate how to provide a default value for a parameter
+- Handle data of type Any and AnyObject, and know when to use each
+- Use type inspection to determine the specific type of data
+- Iterate through heterogeneous collections
 
 ## Assignment ##
 
