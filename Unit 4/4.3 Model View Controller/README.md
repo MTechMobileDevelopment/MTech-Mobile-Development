@@ -1,4 +1,4 @@
-# 3.3 Guard Pages 311-316 #
+# 4.3 Model View Controller 311-316 #
 
 After the lesson be sure to be able to:
 - Describe the purpose of guard

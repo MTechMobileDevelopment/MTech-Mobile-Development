@@ -1,4 +1,4 @@
-# 3.5 Enumerations Pages 325-330 #
+# 4.5 Table Views Pages 325-330 #
 
 After the lesson be sure to be able to:
 - Describe the purpose of enumerations

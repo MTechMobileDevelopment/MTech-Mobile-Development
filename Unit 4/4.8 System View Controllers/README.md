@@ -1,4 +1,4 @@
-# 3.8 View Controller Life Cycle Pages 370-384 #
+# 4.8 System View Controllers Pages 370-384 #
 
 After the lesson be sure to be able to:
 - Identify the correct event in a view controller life cycle for executing setup logic

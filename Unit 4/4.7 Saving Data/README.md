@@ -1,4 +1,4 @@
-# 3.7 Tab Bar Controllers Pages 355-369 #
+# 4.7 Saving Data Pages 355-369 #
 
 After the lesson be sure to be able to:
 - Demonstrate the proper use of segues to navigate between scenes

@@ -1,4 +1,4 @@
-# 3.6 Segues Navigation Controllers Pages 331-354 #
+# 4.6 Intermediate Table Views Pages 331-354 #
 
 After the lesson be sure to be able to:
 - Demonstrate the proper use of segues to navigate between scenes

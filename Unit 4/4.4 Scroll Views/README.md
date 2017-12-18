@@ -1,4 +1,4 @@
-# 3.4 Constant and Variable Scope Pages 317-324 #
+# 4.4 Scroll Views Pages 317-324 #
 
 After the lesson be sure to be able to:
 - Define global and local scope

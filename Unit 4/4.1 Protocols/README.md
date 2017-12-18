@@ -1,4 +1,4 @@
-# 3.1 Optionals Pages Pages 293-304 #
+# 4.1 Protocols Pages Pages 293-304 #
 
 After the lesson be sure to be able to:
 - Describe an optional

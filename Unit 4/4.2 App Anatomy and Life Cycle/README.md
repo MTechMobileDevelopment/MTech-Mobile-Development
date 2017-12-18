@@ -1,4 +1,4 @@
-# 3.2 Type Casting and Inspection Pages 305-310 #
+# 4.2 App Anatomy and Life Cycle Pages 305-310 #
 
 After the lesson be sure to be able to:
 - Handle data of type Any and AnyObject, and know when to use each

@@ -1,4 +1,4 @@
-# 3.9 Building Simple Work Flows Pages 385-394 #
+# 4.9 Building Complex Input Screens Pages 385-394 #
 
 After the lesson be sure to be able to:
 - Describe the role of the iOS Human Interface Guidelines as a reference for building simple feature workflows and navigation hierarchies
